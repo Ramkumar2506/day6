@@ -1,0 +1,2 @@
+# day6
+RESUME BULDING
